@@ -1,0 +1,9 @@
+torch
+transformers
+biopython
+scikit-learn
+numpy
+matplotlib
+seaborn
+networkx
+torch-geometric
